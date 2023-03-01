@@ -15,7 +15,7 @@
  <strong>Hey there, I'm Anurag!</strong>
  </i>
 <div>
-<img align="right" width="280" height="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >   
+<iframe src="https://giphy.com/embed/bAblnnucguKXLHnc3i" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1inch-1inch-exchange-token-trading-bAblnnucguKXLHnc3i">via GIPHY</a></p>  
  </div>
 <br>
  <i> I'm a third year student currently pursuing a Bachelor's Degree in Information Technology at the Pune Institute of Computer Technology with a keen interest in web development and solving DSA problems.
