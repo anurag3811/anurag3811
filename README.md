@@ -19,10 +19,14 @@
 <img align="right" width="180" height="180" src="https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy-downsized.gif" >
  </div>
 <br>
- <i> I'm a third year student currently pursuing a Bachelor's Degree in Information Technology at the Pune Institute of Computer Technology with a keen interest in web development and solving DSA problems.
- I'm an open minded person and love to connect & interact with people.
- I’m currently exploring backend languages for web development and how to integrate them in projects.
- Apart from my studies, I love playing cricket.</i>
+ <i> 
+ 🔸️I'm a third year student currently pursuing a Bachelor's Degree in Information Technology at the Pune Institute of Computer Technology with a keen interest in Blockchain Development.
+🔸️As a Full Stack Blockchain Developer, I am passionate about building decentralized applications that can create a positive impact on society. 
+🔸️With a strong technical background in using various technologies & frameworks such as NextJS, ReactJS, Solidity, Hardhat, and EthersJS, I am capable of delivering quality projects. 
+🔸️Winning multiple ideathons and hackathons have honed my creativity, problem-solving, teamwork abilities & have taught me how to work under pressure. 
+🔸️I would definitely vouch for my strong soft skills including Presentation, Adaptability, Leadership, Attention to detail, etc.
+🔸️I am a quick learner and an adaptable team player with strong communication, management, and critical thinking skills.
+</i>
 
 
 
