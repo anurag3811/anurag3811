@@ -21,15 +21,15 @@
 <br>
  <i> 
  🔸️I'm a third year student currently pursuing a Bachelor's Degree in Information Technology at the Pune Institute of Computer Technology with a keen interest in Blockchain Development.
- </i> <i> 
+<br />
 🔸️As a Full Stack Blockchain Developer, I am passionate about building decentralized applications that can create a positive impact on society. 
-  </i> <i>
+<br />
 🔸️With a strong technical background in using various technologies & frameworks such as NextJS, ReactJS, Solidity, Hardhat, and EthersJS, I am capable of delivering quality projects. 
-  </i> <i>
+<br />
 🔸️Winning multiple ideathons and hackathons have honed my creativity, problem-solving, teamwork abilities & have taught me how to work under pressure.
-  </i> <i>
+<br />
 🔸️I would definitely vouch for my strong soft skills including Presentation, Adaptability, Leadership, Attention to detail, etc.
-  </i> <i>
+<br />
 🔸️I am a quick learner and an adaptable team player with strong communication, management, and critical thinking skills.
 </i>
 
