@@ -47,4 +47,6 @@
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 </p>
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag3811&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
