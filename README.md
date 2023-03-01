@@ -16,6 +16,7 @@
  </i>
 <div>
 <img align="right" width="180" height="180" src="https://media.giphy.com/media/bAblnnucguKXLHnc3i/giphy.gif" >
+ <img align="right" width="180" height="180" src="https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy-downsized-large.gif" >
  </div>
 <br>
  <i> I'm a third year student currently pursuing a Bachelor's Degree in Information Technology at the Pune Institute of Computer Technology with a keen interest in web development and solving DSA problems.
