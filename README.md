@@ -15,7 +15,7 @@
  <strong>Hey there, I'm Anurag!</strong>
  </i>
 <div>
-<img align="right" width="280" height="280" src="https://giphy.com/embed/bAblnnucguKXLHnc3i" >
+<img align="right" width="280" height="280" src="https://media.giphy.com/media/bAblnnucguKXLHnc3i/giphy.gif" >
  </div>
 <br>
  <i> I'm a third year student currently pursuing a Bachelor's Degree in Information Technology at the Pune Institute of Computer Technology with a keen interest in web development and solving DSA problems.
