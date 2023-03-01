@@ -28,6 +28,14 @@
 🔸️I would definitely vouch for my strong soft skills including Presentation, Adaptability, Leadership, Attention to detail, etc.
 <br />
 🔸️I am a quick learner and an adaptable team player with strong communication, management, and critical thinking skills.
+ 
+ 
+🔸️Third-year Bachelor's degree(IT) student at Pune Institute of Computer Technology
+🔸️Passionate about building decentralized applications with a positive impact
+🔸️Full Stack Blockchain Developer with experience in NextJS, ReactJS, Solidity, Hardhat, and EthersJS
+🔸️Multiple ideathon and hackathon wins have honed my creativity, problem-solving skills, and teamwork abilities.
+🔸️Strong soft skills, including presentation, adaptability, leadership, attention to detail, excellent communication, management, and critical thinking skills
+🔸️Quick learner and adaptable team player capable of delivering quality projects.
 </i>
 
 
