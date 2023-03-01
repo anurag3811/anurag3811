@@ -3,7 +3,33 @@
 
 - 📫 How to reach me **38anurag38@gmail.com**
 
+
+
 <h3 align="left">Connect with me:</h3>
+
+
+
+
+<i>
+ <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="30px"> 
+ <strong>Hey there, I'm Shubham Pitale!</strong>
+ </i>
+<div>
+<img align="right" width="280" height="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >   
+ </div>
+<br>
+ <i> I'm a third year student currently pursuing a Bachelor's Degree in Information Technology at the Pune Institute of Computer Technology with a keen interest in web development and solving DSA problems.
+ I'm an open minded person and love to connect & interact with people.
+ I’m currently exploring backend languages for web development and how to integrate them in projects.
+ Apart from my studies, I love playing cricket.</i>
+
+
+
+
+
+
+
+
 <p align="left">
 <a href="https://twitter.com/nft_anurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nft_anurag" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anurag38/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag singh" height="30" width="40" /></a>
