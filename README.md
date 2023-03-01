@@ -17,24 +17,14 @@
  </div>
 
  <i> 
- 🔸️I'm a third year student currently pursuing a Bachelor's Degree in Information Technology at the Pune Institute of Computer Technology with a keen interest in Blockchain Development.
-<br />
-🔸️As a Full Stack Blockchain Developer, I am passionate about building decentralized applications that can create a positive impact on society. 
-<br />
-🔸️With a strong technical background in using various technologies & frameworks such as NextJS, ReactJS, Solidity, Hardhat, and EthersJS, I am capable of delivering quality projects. 
-<br />
-🔸️Winning multiple ideathons and hackathons have honed my creativity, problem-solving, teamwork abilities & have taught me how to work under pressure.
-<br />
-🔸️I would definitely vouch for my strong soft skills including Presentation, Adaptability, Leadership, Attention to detail, etc.
-<br />
-🔸️I am a quick learner and an adaptable team player with strong communication, management, and critical thinking skills.
+
  
  
-🔸️Third-year Bachelor's degree(IT) student at Pune Institute of Computer Technology
-🔸️Passionate about building decentralized applications with a positive impact
-🔸️Full Stack Blockchain Developer with experience in NextJS, ReactJS, Solidity, Hardhat, and EthersJS
-🔸️Multiple ideathon and hackathon wins have honed my creativity, problem-solving skills, and teamwork abilities.
-🔸️Strong soft skills, including presentation, adaptability, leadership, attention to detail, excellent communication, management, and critical thinking skills
+🔸️Third-year Bachelor's degree(IT) student at Pune Institute of Computer Technology<br />
+🔸️Passionate about building decentralized applications with a positive impact<br />
+🔸️Full Stack Blockchain Developer with experience in NextJS, ReactJS, Solidity, Hardhat, and EthersJS<br />
+🔸️Multiple ideathon and hackathon wins have honed my creativity, problem-solving skills, and teamwork abilities.<br />
+🔸️Strong soft skills, including presentation, adaptability, leadership, attention to detail, excellent communication, management, and critical thinking skills<br />
 🔸️Quick learner and adaptable team player capable of delivering quality projects.
 </i>
 
