@@ -13,8 +13,8 @@
 
 <div>
 
-<img align="left" width="220" height="220" src="https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy-downsized.gif" >
- <img align="right" width="220" height="220" src="https://media.giphy.com/media/bAblnnucguKXLHnc3i/giphy.gif" >
+<img align="left" width="220" height="250" src="https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy-downsized.gif" >
+ <img align="right" width="220" height="250" src="https://media.giphy.com/media/bAblnnucguKXLHnc3i/giphy.gif" >
  </div>
 
  <i> 
