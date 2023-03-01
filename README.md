@@ -16,7 +16,7 @@
  </i>
 <div>
 
-<img align="left" width="250" height="250" src="https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy-downsized.gif" >
+<img align="left" width="290" height="290" src="https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy-downsized.gif" >
  </div>
 <br>
  <i> 
