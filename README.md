@@ -21,7 +21,7 @@
 
  
  
-🔸️Third-year Bachelor's degree(IT) student at Pune Institute of Computer Technology<br />
+🔸️Final year Bachelor's degree(IT) student at Pune Institute of Computer Technology<br />
 🔸️Passionate about building decentralized applications with a positive impact<br />
 🔸️Full Stack Blockchain Developer with experience in NextJS, ReactJS, Solidity, Hardhat, and EthersJS<br />
 🔸️Multiple ideathon and hackathon wins have honed my creativity, problem-solving skills, and teamwork abilities.<br />
