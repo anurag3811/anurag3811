@@ -14,7 +14,7 @@
 <div>
 
 <img align="left" width="220" height="260" src="https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy-downsized.gif" >
- <img align="right" width="220" height="260" src="https://media.giphy.com/media/bAblnnucguKXLHnc3i/giphy.gif" >
+<!--  <img align="right" width="220" height="260" src="https://media.giphy.com/media/bAblnnucguKXLHnc3i/giphy.gif" > -->
  </div>
 
  <i> 
