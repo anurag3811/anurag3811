@@ -25,7 +25,7 @@
 🔸️Passionate about building decentralized applications with a positive impact<br />
 🔸️Full Stack Blockchain Developer with experience in NextJS, ReactJS, Solidity, Hardhat, and EthersJS<br />
 🔸️Multiple ideathon and hackathon wins have honed my creativity, problem-solving skills, and teamwork abilities.<br />
-🔸️Strong soft skills including presentation, adaptability, leadership, attention to detail, management, and critical thinking skills<br />
+🔸️Strong soft skills including presentation, adaptability, leadership, attention to detail & critical thinking skills<br />
 🔸️Quick learner and adaptable team player capable of delivering quality projects.
 </i>
 
