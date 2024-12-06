@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag,</h1>
-<h3 align="center">A passionate Web3 Developer</h3>
+<h3 align="center">A passionate Full Stack & Web3 Developer</h3>
 
 - 📫 How to reach me **38anurag38@gmail.com**
 
@@ -21,7 +21,7 @@
 
  
  
-🔸️Final year Bachelor's degree(IT) student at Pune Institute of Computer Technology<br />
+🔸️B.E.(IT) 2024 passout from Pune Institute of Computer Technology<br />
 🔸️Passionate about building Applications and software products with a positive impact<br />
 🔸️Web & Blockchain Developer with experience in NextJS, ReactJS, Solidity, Hardhat, and EthersJS<br />
 🔸️Multiple ideathon and hackathon wins have honed my creativity, problem-solving skills, and teamwork abilities.<br />
